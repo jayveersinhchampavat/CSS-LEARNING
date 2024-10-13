@@ -1,0 +1,48 @@
+#i1 {
+    border-width: 10px;
+    border-style: solid;
+    border-color: violet;
+    border-radius: 20px;
+}
+
+#i2 {
+    border-width: 10px;
+    border-style: dashe;
+    border-color: bisque;
+    border-radius: 20px;
+}
+
+#i3 {
+    border-width: 10px;
+    border-style: dotted;
+    border-color: blue;
+    border-radius: 20px;
+}
+
+#i4 {
+    border-width: 10px;
+    border-style: double;
+    border-color: beige;
+    border-radius: 20px;
+}
+
+#i5 {
+    border-width: 10px;
+    border-style: groove;
+    border-color: brown;
+    border-radius: 20px;
+}
+
+#i6 {
+    border-width: 0px;
+    border-style: ridge;
+    border-color: blueviolet;
+    border-radius: 20px;
+}
+
+#i7 {
+    border-width: 10px;
+    border-style: inset;
+    border-color: blanchedalmond;
+    border-radius: 20px;
+}

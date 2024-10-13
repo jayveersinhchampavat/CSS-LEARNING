@@ -1,0 +1,40 @@
+.title
+{
+    color: #336699;
+}
+.description
+{
+    color: #9999ff;
+}
+.highlight
+{
+    color: #8a8a5c;
+}
+.link
+{
+    color: white;
+}
+.container
+{
+    color: #800040;
+}
+.info
+{
+    color: #99ffbb;
+}
+.warning
+{
+    color:  #ffaa00;
+}
+.footer
+{
+    color: #66ffff;
+}
+.nav
+{
+    color:  #ffff80;   
+}
+.success
+{
+    color:  #cc66ff;
+}

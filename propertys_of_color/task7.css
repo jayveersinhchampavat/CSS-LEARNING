@@ -1,0 +1,32 @@
+div
+{
+    color: red;
+}
+h1
+{
+    color: #0000ff;
+}
+.myChoice
+{
+    color:rgb(176, 251, 3)
+}
+.text1
+{
+    color:rgba(135, 158, 0, 0.2)
+}
+#myText
+{
+    color:hsl(0,100% ,50%);
+}
+#myContent
+{
+    color:hsl(235, 100%, 26%,0.5) ;
+}
+#extra
+{
+    color: #5f9ea0;
+}
+body
+{
+    background: #000;
+}
